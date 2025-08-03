@@ -5,4 +5,4 @@
 <img width="761" height="675" alt="Diagrama Logico" src="https://github.com/user-attachments/assets/4b18dbe4-5859-4b7e-8b08-da02cc8c4756" />
 
 # Diagrama Fisico
-<img width="1205" height="785" alt="Diagrama fisico" src="https://github.com/user-attachments/assets/efda2314-0bb7-4248-9531-fbf11bae11ee" />
+<img width="1256" height="738" alt="Diagrama fisico" src="https://github.com/user-attachments/assets/ecf644bc-7fae-495a-9f3e-fc3540fae24e" />
