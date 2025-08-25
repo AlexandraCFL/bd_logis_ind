@@ -47,7 +47,7 @@ estado VARCHAR(15) NOT NULL,
 monto_total INT NOT NULL,
 cliente_id INT FOREIGN KEY REFERENCES cliente(id),
 almacen_id INT FOREIGN KEY REFERENCES almacen(id),
-);
+); 
 
 
 --Producto 
@@ -61,7 +61,7 @@ stock_disponible INT NOT NULL,
 proveedor_id INT FOREIGN KEY REFERENCES proveedor(id),
 almacen_id INT FOREIGN KEY REFERENCES almacen(id),
 );
-
+ 
 
 --Detalle_pedido
 CREATE TABLE detalle_pedido(
