@@ -6,3 +6,6 @@
 
 # Diagrama Fisico
 <img width="1256" height="738" alt="Diagrama fisico" src="https://github.com/user-attachments/assets/ecf644bc-7fae-495a-9f3e-fc3540fae24e" />
+
+# Diagrama dimensional
+<img width="1301" height="790" alt="image" src="https://github.com/user-attachments/assets/b899a628-cffa-4b56-bce6-e47a9d0e4535" />
