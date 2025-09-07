@@ -10,3 +10,5 @@
 <img width="903" height="556" alt="image" src="https://github.com/user-attachments/assets/d53ebf5c-3877-46d1-b226-b6dc2f2ac4eb" />
 <img width="967" height="561" alt="image" src="https://github.com/user-attachments/assets/dee5acee-91f1-4e65-a56f-3598deb22f03" />
 
+## Cubo con SSAS
+<img width="1030" height="710" alt="image" src="https://github.com/user-attachments/assets/0ab64230-72c7-4291-97d0-74f20f8b4745" />
