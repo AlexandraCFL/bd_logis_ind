@@ -83,10 +83,3 @@ CREATE TABLE fact_pedidos (
     CONSTRAINT fk_dim_tienda_id FOREIGN KEY (dim_tienda_id) REFERENCES dim_tienda(id),
 );
 
-
-Ejemplo de granularidad en la tabla de hechos
-id_pedido	id_cliente	id_producto	id_fecha	id_tienda	cantidad	precio_unitario	total
-1001	501	200	20230815	10	2	15.00	30.00
-1001	501	305	20230815	10	1	7.50	7.50
-1002	302	200	20230816	5	1	15.00	15.00
-
